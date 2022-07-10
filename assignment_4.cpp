@@ -30,7 +30,7 @@ int main() {
        printf("%f\n",b1);
       c1=a1*b1;  
        angle=e1/c1;
-       printf("angle between the vector is cos ? = %f",angle);
+       printf("angle between the vector is cos theta = %f",angle);
      
    
 }
